@@ -12,7 +12,8 @@ Ansible is an open source automation platform. It is very, very simple to setup 
 
 Add a EPEL (Extra Packages for Enterprise Linux)third party repository to get packages for Ansible 
 ```sh 
-rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+
 ```
 
 Install Ansible
